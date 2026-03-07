@@ -1,3 +1,8 @@
+---
+layout: base
+title: Project Page
+---
+
 # Testing New Project Page
 > #### I make things... sometimes I break things
 
