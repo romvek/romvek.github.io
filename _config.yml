@@ -10,17 +10,6 @@ description: My Project updates!
 markdown: kramdown
 theme: minima
 minima:
-  # Minima skin selection. Available skins are:
-  #   Available skins:
-  #     * classic            Default, light color scheme.
-  #     * dark               Dark variant of the classic skin.
-  #     * auto               Adaptive skin based on the default classic and dark skins.
-  #     * solarized-light    Light variant of solarized color scheme.
-  #     * solarized-dark     Dark variant of solarized color scheme.
-  #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: dark
 
-  nav_pages:
-    - about.md
-    - [![Open in GitHub Cdespaces](https://github.com/codespaces/badge.svg) ](https://codespaces.new/thrashing-maniac/fluffy-octo-fortnight)
 
