@@ -19,7 +19,7 @@ This is my homelab/self-hosted environment. This is where I build, learn, and ex
 My homelab journey started around 2016 when a co-worker gave me his hand-me-downs after he upgraded his. Started with a SilverStone SG05 with an AMD A8-3870K and 8GB of RAM.
 I now run a UniFi stack in a 15u rack and a converted old PC in a 2U chasis with an Intel i5-12600K and 32 GB of RAM.
 
-![Static Badge](https://img.shields.io/badge/Homelab-%20?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=black&color=blue&link=https%3A%2F%2Fgithub.com%2Fromvek%2FHomelab)
+[![Static Badge](https://img.shields.io/badge/Homelab-%20?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=black&color=blue)](https://github.com/romvek/Homelab)
 
 ## Job Life
 ### Information Security Analyst
