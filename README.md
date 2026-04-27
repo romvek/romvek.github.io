@@ -7,6 +7,10 @@
  |_|  \___/|_| |_| |_|\  / \___|_|\_\
  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾\/‾‾‾‾‾‾‾‾‾‾‾‾‾                                                 
 ```
+# About me
+This page is about my work, projects, health habits/journey, and my learnings. These are the things that I was having trouble documenting in whatever conventional way before. I started here on GitHub as a way to increase my skills and find new things to learn. 
+
+I am a security professional with 10+ years of cybersecurity experience in the electric utility sector spanning across security operations, Microsoft 365 administration, and cross functional program leadership.
 
 # What have I done?
 ![WhatAreYouDoingHereOfficeSpaceGIF](https://github.com/user-attachments/assets/9f7201e1-3867-46d4-95fa-cef905098249)
@@ -19,7 +23,29 @@ I now run a UniFi stack in a 15u rack and a converted old PC in a 2U chasis with
 
 [![Static Badge](https://img.shields.io/badge/Homelab-%20?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=black&color=blue)](https://github.com/romvek/Homelab)
 
-### 💡 WLED
+### 💡 WLED 
+What is [WLED](https://github.com/wled/WLED)? A fast and feature-rich implementation of a webserver to control NeoPixel LEDs.
+
+I have implementd a couple small projects utilizing 2 seperate devices. 
+- 1st was a simple outline around a shelving unit where my homelab rack sits
+- 2nd were a couple retrofitted IKEA VIDJA floor lamps
+
+## 💸 Pays the Bills
+### 👨🏻‍💻 Information Security Analyst
+- 2014-2016 - Cyber Security Analyst at Bonneville Power; Contractor
+- 2016-2020 - Lead Cyber Security Analyst at Bonneville Power; Contractor
+
+### 👨🏻‍💻 Information Security Manager
+- 2020 - Director, MDR Operations at Mosaic451
+- 2021-2025 - Manager, Security Services at EnergySec
+
+### 📖 Career Enhanchments
+- SANS
+  - SEC503 - GCIA 2016 
+- LinkedIn Learning Paths
+  - Docker Foundations Professional Certificate
+  - Prepare for the GitHub Foundations Certificate
+  - DevOps Professional Certificate
 
 ## Healthy Stuff 
 ### 🏃🏻 Marathoner
@@ -39,20 +65,3 @@ My co-workers would always joke around and ask when was I going to run a maratho
 I started builing a homegym during the covid years. With the gyms shut down I needed a place to continue my workouts.
 I started with what I could find available... the cheapest lightest adjustable dumbbells and resistance bands from walmart.
 I slowly built up and added on as I saved money and as equipment became available. Eventually buiding out a fully customized power rack and functional trainer.
-
-## 💸 Pays the Bills
-### 👨🏻‍💻 Information Security Analyst
-- 2014-2016 - Cyber Security Analyst at Bonneville Power
-- 2016-2020 - Lead Cyber Security Analyst at Bonneville Power
-
-### 👨🏻‍💻 Information Security Manager
-- 2020 - MDR Operations Director at Mosaic451
-- 2021-2025 - Security Services Manager at EnergySec
-
-### 📖 Career Enhanchments
-- SANS
-  - SEC503 - GCIA 2016 
-- LinkedIn Learning Paths
-  - Docker Foundations Professional Certificate
-  - Prepare for the GitHub Foundations Certificate
-  - DevOps Professional Certificate
