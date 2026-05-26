@@ -24,6 +24,9 @@ I now run a UniFi stack in a 15u rack and an old PC converted into a 2U chassis 
 I have been building out a home lab SOC. I deployed Wazuh, Prometheus, Loki, and Grafana. I have been working on automating the deployment of agents to existing VMs and containers, as well as new ones as they are being created.
 
 [![Static Badge](https://img.shields.io/badge/Homelab-%20?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=black&color=blue)](https://github.com/romvek/Homelab)
+[![Static Badge](https://img.shields.io/badge/Network%20Diagram%20-%20purple?style=for-the-badge&logo=Mermaid&logoColor=purple&labelColor=black)](https://github.com/romvek/home-network-diagram)
+
+I have built a network diagram in mermaid. It still needs some work and additions. Working on making it an easy to edit application.
 
 ![](https://github.com/romvek/home-network-diagram/blob/main/assets/network.png)
 
