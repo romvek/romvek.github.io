@@ -28,7 +28,7 @@ I have been building out a home lab SOC. I deployed Wazuh, Prometheus, Loki, and
 
 I have built a network diagram in mermaid. It still needs some work and additions. Working on making it an easy to edit application.
 
-![](https://github.com/romvek/home-network-diagram/blob/main/assets/network.png)
+<img src="https://raw.githubusercontent.com/romvek/home-network-diagram/main/assets/network.png" alt="Dynamic Image">
 
 ### 💡 WLED 
 What is [WLED](https://github.com/wled/WLED)? A fast and feature-rich implementation of a web server to control NeoPixel LEDs.
