@@ -21,9 +21,11 @@ This is my homelab/self-hosted environment. This is where I build, learn, and ex
 My homelab journey started around 2016 when a co-worker gave me his hand-me-downs after he upgraded his. I started with a SilverStone SG05 with an AMD A8-3870K and 8GB of RAM.
 I now run a UniFi stack in a 15u rack and an old PC converted into a 2U chassis with an Intel i5-12600K and 32 GB of RAM.
 
-I have been building out what is essentially a home lab SOC. I deployed Wazuh, Prometheus, Loki, and Grafana. I have been working on automating the deployment of agents to existing VMs and containers, as well as new ones as they are being created.
+I have been building out a home lab SOC. I deployed Wazuh, Prometheus, Loki, and Grafana. I have been working on automating the deployment of agents to existing VMs and containers, as well as new ones as they are being created.
 
 [![Static Badge](https://img.shields.io/badge/Homelab-%20?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=black&color=blue)](https://github.com/romvek/Homelab)
+
+![](https://github.com/romvek/home-network-diagram/blob/main/assets/network.png)
 
 ### 💡 WLED 
 What is [WLED](https://github.com/wled/WLED)? A fast and feature-rich implementation of a web server to control NeoPixel LEDs.
