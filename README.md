@@ -36,6 +36,7 @@ What is [WLED](https://github.com/wled/WLED)? A fast and feature-rich implementa
 I have implemented a couple of small projects utilizing 2 separate devices. 
 - 1st was a simple outline around a shelving unit where my homelab rack sits
 - 2nd were a couple of retrofitted IKEA VIDJA floor lamps
+
 <img width="239" height="320" alt="Lamp" src="https://github.com/user-attachments/assets/91afe6ea-0aab-489d-a6e0-d40dfdc40251" />
 
 ## 💸 Pays the Bills
