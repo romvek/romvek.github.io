@@ -1,10 +1,10 @@
 # basic options
-title: Homepage
+title: romvek // Labs
 author: Me
 email: none@yourbusiness.com
 twitter_username: drivenbymetal
-github_username: thrashing-maniac
-description: My Project updates!
+github_username: romvek
+description: Documenting my journey in system administration, automation, and cybersecurity through hands-on labs and projects.
 
 # Build Options
 markdown: kramdown
