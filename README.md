@@ -23,12 +23,17 @@ I now run a UniFi stack in a 15u rack and an old PC converted into a 2U chassis 
 
 I have been building out a home lab SOC. I deployed Wazuh, Prometheus, Loki, and Grafana. I have been working on automating the deployment of agents to existing VMs and containers, as well as new ones as they are being created.
 
-[![Static Badge](https://img.shields.io/badge/Homelab-%20?style=for-the-badge&logo=Proxmox&logoColor=blue&labelColor=black&color=blue)](https://github.com/romvek/Homelab)
-[![Static Badge](https://img.shields.io/badge/Network%20Diagram%20-%20purple?style=for-the-badge&logo=Mermaid&logoColor=purple&labelColor=black)](https://github.com/romvek/home-network-diagram)
+[![Static Badge](https://img.shields.io/badge/Homelab-%20?style=for-the-badge&logo=Proxmox&logoColor=orange&labelColor=black&color=orange)](https://github.com/romvek/Homelab)
+[![Static Badge](https://img.shields.io/badge/Network%20Diagram%20-%20?style=for-the-badge&logo=Mermaid&logoColor=purple&labelColor=black&color=purple)](https://github.com/romvek/home-network-diagram)
+[![Static Badge](https://img.shields.io/badge/Unifi%20Exposure%20Monitor%20-%20?style=for-the-badge&logo=Ubiquiti&logoColor=blue&labelColor=black&color=blue)](https://github.com/romvek/UniFi-Exposure-Monitor)
 
+### 🗺️ Network Diagram
 I have built a network diagram in mermaid. It still needs some work and additions. Working on making it an easy to edit application.
 
 <img src="https://raw.githubusercontent.com/romvek/home-network-diagram/main/assets/network.png" alt="Dynamic Image">
+
+### 🔎 UniFi Exposure Monitor
+A lightweight bash-based monitor that periodically checks whether your UniFi management interface is exposed to the internet. Findings are reported via Telegram and pushed to Prometheus Pushgateway for visualization in Grafana.
 
 ### 💡 WLED 
 What is [WLED](https://github.com/wled/WLED)? A fast and feature-rich implementation of a web server to control NeoPixel LEDs.
