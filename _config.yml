@@ -8,4 +8,4 @@ description: Documenting my journey in system administration, automation, and cy
 
 # Build Options
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: lewismiddleton/cayman-dark
